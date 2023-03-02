@@ -1,4 +1,4 @@
-class Main {
+class OperadoresAritmeticos{
 
   //Cria o método principal (função) main.
   public static void main(String[] args) {
@@ -27,14 +27,6 @@ class Main {
 
     //Imprime na tela o resultado do resto da dvisão de interios (MOD) entre x e y.
     System.out.println("Resto da divisão de interios de x por y: " + (x%y));
-    
-
-
-
-
-
-
-
-    
+  
   }
 }
